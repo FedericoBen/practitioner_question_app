@@ -6,6 +6,8 @@ Welcome to the Cloud Practitioner Certification Exam Simulator. This application
 
 **Important Note:** The questions included in this simulator are not the same as those on the actual exam. All questions have been generated with the help of ChatGPT, a language model developed by OpenAI. This simulator's sole purpose is to provide a practice tool and does not guarantee the exact content of the official exam.
 
+### url : (https://federicoben.github.io/practitioner_question_app/)
+
 ## Features
 
 - **Exam Simulation:** Practice with a set of questions that simulate the certification exam format.
@@ -21,4 +23,3 @@ npm install
 ```
 npm run dev
 ```
-
